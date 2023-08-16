@@ -1,0 +1,23 @@
+.Formbox{
+    /* position: absolute;
+         top: 5%;
+         left:5%;
+         /* height: 75%; */
+         /* width: 400px; */
+         /* border-radius: 88px; */
+         width: 400px;
+         height: 90vh;
+         border-radius: 88px;
+         display: flex;
+         position: absolute;
+         top: 5%;
+         right: 5%;
+         margin: auto;
+         flex-direction: column;
+         justify-content: center;
+         background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(146, 163, 184, 1) 100%
+  );
+ }

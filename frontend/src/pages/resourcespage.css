@@ -1,0 +1,49 @@
+.resourcepage{
+    min-height: 100vh;
+    background-color: #bef0ff;
+}
+.resourcesContent{
+    display: flex;
+    flex-direction: column;
+     align-items: center;
+}
+
+.resource_title{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding:1em;
+    margin:1em;
+}
+
+#resource_title{
+    margin:1rem;
+}
+
+.resource_listelement{
+    display: flex;
+    justify-content: space-between;
+    padding:0.5em;
+    margin:0.5em;
+}
+.resource_listelement h3{
+    width:auto;
+    text-align:center;
+    width:20vw;
+}
+.resource_listelement h3{
+    width:auto;
+    text-align:center;
+    width:20vw;
+}
+
+#resource_divider{
+    border:2px solid #000;
+    height:0px;
+    width: 1300px;
+    margin:auto;
+}
+
+.resource_list{
+    width:100vw;
+}

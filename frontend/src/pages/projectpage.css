@@ -1,0 +1,9 @@
+.ProjectPage{
+    background-color: #bef0ff;
+    min-height: 100vh;
+}
+
+.ProjectPageBlocks{
+    display: flex;
+    flex-wrap: wrap;
+}
