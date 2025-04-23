@@ -18,7 +18,7 @@ import  ErrorpopUp from "./component/popUp/ErrorpopUp"// eslint-disable-next-lin
 function App() {
   return (
     // k
-    <BrowserRouter>
+    <BrowserRouter basename="/">
       <Box sx={{ backgroundColor: "#fff" }}>
       {/* <PopUpDashboard/> */}
       {/* <SelectorDropDown /> */}
