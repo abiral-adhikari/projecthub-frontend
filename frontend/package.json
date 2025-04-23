@@ -62,6 +62,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
-    "tailwindcss": "^2.2.2"
+    "tailwindcss": "^2.2.2",
+    "serve": "^14.2.0"
   }
 }
